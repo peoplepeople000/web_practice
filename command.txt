@@ -1,0 +1,2 @@
+// The command use to deploy on firebase
+firebase deploy
